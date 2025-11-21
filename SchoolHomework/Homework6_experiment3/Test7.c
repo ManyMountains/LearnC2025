@@ -54,4 +54,5 @@ int main(){
         printf("%-6.1lf",singeAverage[i]);
     }
     printf("\n");
+    return 0;
 }
