@@ -15,8 +15,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/0-Computer_Learning/0-Code/CCode/LearnC2025/SelfTest",
-      "program": "d:/0-Computer_Learning/0-Code/CCode/LearnC2025/SelfTest/build/Debug/outDebug",
+      "cwd": "d:/0-Computer_Learning/0-Code/CCode/LearnC2025/SelfTest/LinkedList",
+      "program": "d:/0-Computer_Learning/0-Code/CCode/LearnC2025/SelfTest/LinkedList/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
