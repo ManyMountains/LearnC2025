@@ -2,21 +2,14 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "Test",
-      "request": "launch",
-      "mainClass": "Test",
-      "projectName": "LearnC2025_f62ed5e8"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/0-Computer_Learning/0-Code/CCode/LearnC2025/SchoolClassTest/ClassTest",
-      "program": "d:/0-Computer_Learning/0-Code/CCode/LearnC2025/SchoolClassTest/ClassTest/build/Debug/outDebug",
+      "cwd": "d:/0-Computer_Learning/0-Code/CCode/LearnC2025/SchoolHomework/Homework8_experiment5",
+      "program": "d:/0-Computer_Learning/0-Code/CCode/LearnC2025/SchoolHomework/Homework8_experiment5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
